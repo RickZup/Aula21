@@ -7,12 +7,17 @@ os tipos de carros que o cliente possui para financiamento. Ela te passou que, p
 enquanto, o cliente trabalha apenas com 3 marcas de carros, sendo Renault, Fiat e
 Hyundai e todos os carros possuem as seguintes informações:
 
-    - Marca;
-    - Ano;
-   - Valor;
-    - Cor;
-    - Portas;
-    - Velocidade.
+Marca;
+
+Ano;
+
+Valor;
+
+Cor;
+
+Portas;
+
+Velocidade.
 
 Depois, sua tech lead lhe informou que todos os carros iniciam a partida do motor,
 freiam e aceleram, porém, cada um faz isso de uma forma diferente.
